@@ -17,7 +17,7 @@ Hey there! 👋 Welcome to the Simple Dice Game project.
 4. **Repeat:**
    - Keep playing to test your luck and see how many points you can score!
 
-## [Visit Project](https://www.google.com)
+## [Visit Project](https://resilient-gumption-4b9aa5.netlify.app)
 
 # Contributing
 
